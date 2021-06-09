@@ -1,11 +1,5 @@
 # Hi there 🙋‍♂️
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rRnkilPYiGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-<br>
-<br>
-
 ## My name is Naeem Musamh, Previously I studying accounting, but now I am studying web developer, I find it so interesting to learn it and it will help me in my business field like accounting and create a program the market his want and make some people live easy.
 --------------------------------------------------
 
