@@ -1,7 +1,6 @@
 # Hi there 🙋‍♂️
 
 ## My name is Naeem Musamh, Previously I studying accounting, but now I am studying web developer, I find it so interesting to learn it and it will help me in my business field like accounting and create a program the market his want and make some people live easy.
---------------------------------------------------
 
 ![developer](https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1381&q=80)
 
@@ -22,7 +21,6 @@
 ![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=Express&logoColor=black&color=black)
 ![socket](https://img.shields.io/badge/⚡Developer-Socket.io-informational?style=flat&logoColor=white&color=black)
 ![jest](https://img.shields.io/badge/Developer-Jest-informational?style=flat&logo=Jest&logoColor=red&color=black)
-<br>
 ![mongo](https://img.shields.io/badge/Developer-mongo-informational?style=flat&logo=mongoDB&logoColor=green&color=#669900)
 
 <br>
